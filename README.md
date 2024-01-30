@@ -1,2 +1,2 @@
-# HTML-SERIES
+# HTML
 HTML  websites from basics
